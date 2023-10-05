@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\russe\\Developer\\Aura_UE_Version_5_3\\GameplayAbilitySystem_Aura\\Aura\\Source\\Aura\\Aura.Build.cs",
+		"C:\\Users\\russe\\Developer\\Aura_UE_Version_5_3\\GameplayAbilitySystem_Aura\\Aura\\Source\\Aura.Target.cs",
+		"C:\\Users\\russe\\Developer\\Aura_UE_Version_5_3\\GameplayAbilitySystem_Aura\\Aura\\Source\\AuraEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.1"
+}
