@@ -1,1 +1,9 @@
-C:\Users\russe\Developer\Aura_UE_Version_5_3\GameplayAbilitySystem_Aura\Aura\Source\Aura\Public\AureCharacterBase.h
+C:\Users\russe\Developer\Aura_UE_Version_5_3\GameplayAbilitySystem_Aura\Aura\Source\Aura\Public\Character\AuraCharacter.h
+C:\Users\russe\Developer\Aura_UE_Version_5_3\GameplayAbilitySystem_Aura\Aura\Source\Aura\Public\AbilitySystem\AuraAbilitySystemComponent.h
+C:\Users\russe\Developer\Aura_UE_Version_5_3\GameplayAbilitySystem_Aura\Aura\Source\Aura\Public\Character\AuraEnemy.h
+C:\Users\russe\Developer\Aura_UE_Version_5_3\GameplayAbilitySystem_Aura\Aura\Source\Aura\Public\Player\AuraPlayerController.h
+C:\Users\russe\Developer\Aura_UE_Version_5_3\GameplayAbilitySystem_Aura\Aura\Source\Aura\Public\Interaction\EnemyInterface.h
+C:\Users\russe\Developer\Aura_UE_Version_5_3\GameplayAbilitySystem_Aura\Aura\Source\Aura\Public\Game\AuraGameModeBase.h
+C:\Users\russe\Developer\Aura_UE_Version_5_3\GameplayAbilitySystem_Aura\Aura\Source\Aura\Public\AbilitySystem\AuraAttributeSet.h
+C:\Users\russe\Developer\Aura_UE_Version_5_3\GameplayAbilitySystem_Aura\Aura\Source\Aura\Public\Player\AuraPlayerState.h
+C:\Users\russe\Developer\Aura_UE_Version_5_3\GameplayAbilitySystem_Aura\Aura\Source\Aura\Public\Character\AuraCharacterBase.h

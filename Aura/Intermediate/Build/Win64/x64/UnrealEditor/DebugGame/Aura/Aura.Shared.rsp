@@ -260,6 +260,8 @@
 /I "C:\Users\russe\Developer\Aura_UE_Version_5_3\GameplayAbilitySystem_Aura\Aura\Intermediate\Build\Win64\UnrealEditor\Inc\Aura\UHT"
 /I "C:\Users\russe\Developer\Aura_UE_Version_5_3\GameplayAbilitySystem_Aura\Aura\Source"
 /I "C:\Users\russe\Developer\Aura_UE_Version_5_3\GameplayAbilitySystem_Aura\Aura\Source\Aura\Public"
+/I "..\Plugins\EnhancedInput\Intermediate\Build\Win64\UnrealEditor\Inc\EnhancedInput\UHT"
+/I "..\Plugins\EnhancedInput\Source\EnhancedInput\Public"
 /external:W0
 /external:I "ThirdParty\mimalloc\include"
 /external:I "ThirdParty\LibTiff\Source\Win64"
